@@ -1,0 +1,31 @@
+# 虚拟环境目录
+
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 编辑器/IDE
+.vscode/
+.idea/
+
+# 日志文件
+*.log
+
+
+# 数据目录
+data/
+
+# 前端仪表盘依赖目录
+
+dashboard/node_modules/
+dashboard/.next
+
+# 供vibe coding 使用的目录
+
+LLM/
+test/
+AstrBot/

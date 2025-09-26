@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "NekoBot"
+version = "0.1.0"
+description = "一个简单易上手的多平台聊天机器人框架"
+readme = "README.md"
+license = {text = "AGPL-3.0-or-later"}
+requires-python = ">=3.10"
+
+[project.urls]
+Homepage = "https://github.com/NekoBotDevs/NekoBot"
+
+
